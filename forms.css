@@ -1,0 +1,37 @@
+.forms{
+    margin-top: 1%;
+    margin-left: 10%;
+    align-items: center;
+    width: 60%;
+    
+}
+
+.float{
+    float: left;
+}
+.text{
+    margin-left: 15%;
+    margin-top: 3%;
+    color: white;
+    font-size: 20vx;
+    text-align: justify;
+    font-weight: bold;
+
+}
+
+.grow { 
+    padding-left: 5%;
+    transition: all .2s ease-in-out; 
+    }
+
+.grow:hover { 
+    transform: scale(1.2); 
+    text-shadow: 0 0 6px #1230da;
+    }
+
+
+    .tab{
+        margin-left: 10%;
+        margin-bottom: 5%;
+        padding-top: 3%;
+    }
