@@ -13,8 +13,9 @@ $margin: 15%;
 .float{
     float: left;
 }
+
+
 .text{
-    
     color: white;
     font-size: large;
     text-align: justify;
@@ -27,6 +28,9 @@ h2{
     margin-bottom: 1%;
 }
 
+.block{
+
+}
 
 .imageR{
     @extend %image;
