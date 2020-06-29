@@ -59,3 +59,9 @@ h2{
     font-size: 30px;
     font-weight: bold;
 }
+
+@media (max-width: 499px) {
+    .text{
+        font-size: small;
+    }
+}

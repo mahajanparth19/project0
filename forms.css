@@ -16,7 +16,13 @@
     font-size: 20vx;
     text-align: justify;
     font-weight: bold;
+    margin-right: 2%;
+}
 
+@media (max-width: 499px) {
+    .text{
+        font-size: small;
+    }
 }
 
 .grow { 
