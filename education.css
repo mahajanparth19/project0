@@ -75,6 +75,9 @@ h2 {
   text-align: justify;
   margin-bottom: 2%;
 }
+.bor .extra {
+  margin-top: 9%;
+}
 @media (max-width: 499px) {
   .bor .text {
     font-size: small;
