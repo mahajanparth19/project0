@@ -86,4 +86,11 @@ h2{
         text-align: justify;
         margin-bottom: 2%;
     }
+
+    @media (max-width: 499px) {
+        .text{
+            font-size: small;
+        }
+    }
+
 }

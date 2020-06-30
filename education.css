@@ -75,5 +75,10 @@ h2 {
   text-align: justify;
   margin-bottom: 2%;
 }
+@media (max-width: 499px) {
+  .bor .text {
+    font-size: small;
+  }
+}
 
 /*# sourceMappingURL=education.css.map */
