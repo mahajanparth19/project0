@@ -29,8 +29,14 @@ body {
 
 #title{
     font-family: 'SEGA LOGO FONT';
-    margin: 70px;
+    margin-top: 70px;
     text-align: center;
     color: white;
     text-shadow: whitesmoke;
+}
+
+@media (max-width: 499px){
+    #title{
+        font-size: 150%;
+    }
 }

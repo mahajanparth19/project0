@@ -24,16 +24,24 @@
         font-size: small;
     }
 }
-
-.grow { 
+.grow {
     padding-left: 5%;
-    transition: all .2s ease-in-out; 
-    }
-
-.grow:hover { 
-    transform: scale(1.2); 
+  }
+  
+  .grow:hover {
     text-shadow: 0 0 6px #1230da;
+  }
+  
+  @media (min-width: 600px){
+    .grow {
+      transition: all 0.2s ease-in-out;
     }
+    
+    .grow:hover {
+      transform: scale(1.2);
+    }
+  }
+  
 
 
     .tab{
