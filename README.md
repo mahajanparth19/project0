@@ -16,3 +16,4 @@ which contains my facebook profile and github profile
 I also added the capability to email me directly.
 
 I also the made the website mobile responsive and removed the animation from small screens because it was hampering the capability of website.
+
