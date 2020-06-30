@@ -33,6 +33,7 @@ body {
     text-align: center;
     color: white;
     text-shadow: whitesmoke;
+    margin-bottom: 2%;
 }
 
 @media (max-width: 499px){
