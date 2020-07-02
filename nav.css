@@ -9,15 +9,17 @@
 	margin-left: 30px;	
 }
 
-.active{
-	text-shadow: 0 0 3px #1230da;
-}
-
 
 body {
-    width: 100%;
-    background: url(./images/background.jpg);
+    width: 95%;
+    background: url('./images/background.jpg');
     color: white;
+}
+
+@media (min-width: 499px){
+    body {
+        width: 90%
+    }
 }
 
 @font-face {

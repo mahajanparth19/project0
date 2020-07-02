@@ -9,6 +9,7 @@
 .float{
     float: left;
 }
+
 .text{
     margin-left: 15%;
     margin-top: 3%;
@@ -21,7 +22,9 @@
 
 @media (max-width: 499px) {
     .text{
+        margin-left: 5%;
         font-size: small;
+        width: 90%;
     }
 }
 .grow {
